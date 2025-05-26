@@ -1,0 +1,3 @@
+../User/PassiveBuzzer/BUZZER.c:10:10:presForFrequency	16	static
+../User/PassiveBuzzer/BUZZER.c:16:6:noTone	16	static
+../User/PassiveBuzzer/BUZZER.c:21:6:playTone	24	static

@@ -1,0 +1,10 @@
+../User/LCD_I2C/LCD_I2C.c:28:6:LCD_send_cmd	32	static
+../User/LCD_I2C/LCD_I2C.c:49:6:LCD_send_data	32	static
+../User/LCD_I2C/LCD_I2C.c:70:6:LCD_backlight_on	8	static
+../User/LCD_I2C/LCD_I2C.c:76:6:LCD_backlight_off	8	static
+../User/LCD_I2C/LCD_I2C.c:82:6:LCD_Init	8	static
+../User/LCD_I2C/LCD_I2C.c:100:6:LCD_send_string	16	static
+../User/LCD_I2C/LCD_I2C.c:108:6:LCD_clear_display	8	static
+../User/LCD_I2C/LCD_I2C.c:113:6:LCD_goto_XY	24	static
+../User/LCD_I2C/LCD_I2C.c:127:6:LCD_blink_cursor_on	8	static
+../User/LCD_I2C/LCD_I2C.c:132:6:LCD_blink_cursor_off	8	static

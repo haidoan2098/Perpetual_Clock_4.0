@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/haidoan2098/Workspace/STM32CubeIDE/SmartWatch_Project_VKU/SmartWatch40_VKU/User/DS3231_RTC",
+      "program": "/home/haidoan2098/Workspace/STM32CubeIDE/SmartWatch_Project_VKU/SmartWatch40_VKU/User/DS3231_RTC/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
