@@ -26,5 +26,5 @@ The watch has the following functions:
 - VSCode + PlatformIO.
 
 ## Video Demo
-- ![Link video 1](https://youtube.com/shorts/rB-4FvunlpY?si=ga5Ib22_rXEa54Cp)
-- ![Link video 2](https://youtube.com/shorts/ljas-AkSjsQ?si=wHcukHuxG-K7sSvk)
+- [Link video 1](https://youtube.com/shorts/rB-4FvunlpY?si=ga5Ib22_rXEa54Cp)
+- [Link video 2](https://youtube.com/shorts/ljas-AkSjsQ?si=wHcukHuxG-K7sSvk)
